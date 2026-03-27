@@ -33,9 +33,9 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 🔮 Future Enhancements
-Add support for multiple PDFs
-Improve answer accuracy using better embeddings
-Integrate Gemini API
-Add chat history memory
-Deploy application online
+-Add support for multiple PDFs
+-Improve answer accuracy using better embeddings
+-Integrate Gemini API
+-Add chat history memory
+-Deploy application online
 
